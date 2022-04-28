@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Teaching
 subtitle:
 
 # Date format for experience
@@ -21,14 +21,12 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+experience:  
+  - title: Teaching Assistant (TA) in Analysis of Comparative Politics
+    company: University of Pittsburgh
+    company_url: 'https://www.polisci.pitt.edu/'
+    date_start: '2022-01-10'
+    date_end: '2022-4-30'
     description: |2-
         Responsibilities include:
         
@@ -36,14 +34,32 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+  - title: Teaching Assistant (TA) in Visualizing and Understanding Social Data
+    company: University of Pittsburgh
+    company_url: 'https://www.polisci.pitt.edu/'
+    date_start: '2022-01-10'
+    date_end: '2022-4-30'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+ - title: Teaching Assistant (TA) in Comparative Politics
+    company: University of Pittsburgh
+    company_url: 'https://www.polisci.pitt.edu/'
+    date_start: '2021-08-27'
+    date_end: '2021-12-18'
+    description: Taught electronic engineering and researched semiconductor physics.
+
+ - title: Teaching Assistant (TA) in Methods and Scope of Political Analysis
+    company: Sabanci University
+    company_url: 'https://www.sabanciuniv.edu/en'
+    date_start: '2019-09-01'
+    date_end: '2020-01-01'
+    description: Taught electronic engineering and researched semiconductor physics.
+
+ - title: Teaching Assistant (TA) in Research Methods
+    company: Sabanci University
+    company_url: 'https://www.sabanciuniv.edu/en'
+    date_start: '2018-09-01'
+    date_end: '2019-05-01'
 
 design:
   columns: '2'
